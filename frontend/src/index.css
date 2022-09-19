@@ -1,0 +1,139 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+} */ 
+  body {
+  margin: 0;
+  font-family: "Arial";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color:rgb(37, 131, 172) ;
+}
+
+code {
+  font-family: Arial;
+}
+
+.app {
+  background: #aeac28;
+  padding: 30px;
+  height: 100h;
+}
+
+.todo-list {
+  background-color: #09add6;
+  border-radius: 6px;
+  padding: 5px;
+  max-width:50px;
+}
+
+.todo {
+  background:rgb(137, 188, 154);
+  box-shadow: 1px 1px 1px rgba(192, 212, 9, 0.15);
+  padding: 3px ;
+  font-size: 18px;
+  margin-bottom: 5px;
+  border-radius: 3px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.input {
+  width: 30%;
+  box-sizing: border-box;
+  border: 25%;
+  border-radius: 15px;
+  box-shadow: none;
+  padding: 1rem;
+  height: 2.25em;
+  font-size: 18px;
+  background-color:rgb(12, 51, 167);
+}
+
+.button {
+  width: 20%;
+  box-sizing: border-box;
+  border: 25%;
+  border-radius: 15px;
+  box-shadow: none;
+  padding: 1rem;
+  height: 2.50em;
+  font-size: 18px;
+  background-color:rgb(188, 15, 232);
+}
+
+
+/* 
+  body {
+  margin: 0;
+  font-family: "Arial";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  
+}
+button {
+  width: 20%;
+  box-sizing: border-box;
+  border: 25%;
+  border-radius: 15px;
+  box-shadow: none;
+  padding: 1rem;
+  height: 2.50em;
+  font-size: 18px;
+  background-color:rgba(208, 36, 59, 0.605);
+} */
+
+/* .App {
+  font-family: sans-serif;
+  text-align: center;
+}
+body {
+  background-color: rgb(30, 34, 29);
+}
+h1 {
+  color: rgb(201, 8, 18);
+}
+.container {
+  display: inline-block;
+  padding: 10px;
+  min-width: 20px;
+}
+.container img {
+  width: 100px;
+  height: 100px;
+}
+.checked {
+  color: orange;
+}
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+body {
+  
+}
+h1 {
+  color: rgb(201, 8, 18);
+}
+.container {
+  display: inline-block;
+  padding: 10px;
+  min-width: 20px;
+}
+.container img {
+  width: 100px;
+  height: 100px;
+}
+.checked {
+  color: orange;
+} */
